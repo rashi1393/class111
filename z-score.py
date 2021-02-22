@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 import statistics
 import random
 import pandas as pd
-import csv
+import csv  
 
 #Change the School data here
 df = pd.read_csv("School2.csv")
